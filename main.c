@@ -9,10 +9,10 @@ int main()
     setlocale(LC_ALL, "Portuguese");
 
     //lista normal
-    struct no *pinicioNormal = NULL, *pfim = NULL;
+    struct no *pinicio = NULL, *pfim = NULL;
 
     //lista preferencial
-    struct no *pinicioPref = NULL, *pfim2 = NULL;
+    struct no *pinicio2 = NULL, *pfim2 = NULL;
 
     int vresult,vnumrand, tipo, menu;
 

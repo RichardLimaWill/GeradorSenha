@@ -45,3 +45,14 @@
 	<stdlib.h>
 	<conio.h>
 
+1632781016 source:c:\users\ricck\onedrive\Área de trabalho\github\geradorsenha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TADFila.h"
+
+1632455588 c:\users\ricck\onedrive\Área de trabalho\github\geradorsenha\tadfila.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

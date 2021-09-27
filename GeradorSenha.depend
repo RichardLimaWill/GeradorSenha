@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1631228634 source:c:\projetos_c\prjexemplofila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TADFila.h"
+
+1631197074 c:\projetos_c\prjexemplofila\tadfila.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1622681214 c:\projetos_c\prjcriaheader\biblioteca.h
+
+1631907026 source:c:\users\ricck\downloads\fila\prjexemplofila\prjexemplofila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TADFila.h"
+
+1631907023 c:\users\ricck\downloads\fila\prjexemplofila\prjexemplofila\tadfila.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1632438350 source:c:\users\ricck\onedrive\documentos\4 semestre\estrutura de dados ii\fila\prjexemplofila\prjexemplofila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TADFila.h"
+
+1632438789 c:\users\ricck\onedrive\documentos\4 semestre\estrutura de dados ii\fila\prjexemplofila\prjexemplofila\tadfila.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1632438350 source:c:\users\ricck\onedrive\documentos\4 semestre\estrutura de dados ii\geradorsenha\geradorsenha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TADFila.h"
+
+1632438789 c:\users\ricck\onedrive\documentos\4 semestre\estrutura de dados ii\geradorsenha\geradorsenha\tadfila.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
